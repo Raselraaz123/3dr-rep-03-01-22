@@ -1,3 +1,18 @@
 p{
     color: blue;
 }
+.po{background-color: rgb(241, 200, 34);
+    color: blanchedalmond;
+    text-decoration: underline;
+}
+.ty{
+    color:navy;
+    background-color: orange;
+
+    text-decoration: overline;
+}
+.gh{border:2px solid pink;
+    background-color: slategray;
+    font-size: 30px;
+    text-decoration: line-through;
+}
