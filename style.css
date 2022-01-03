@@ -1,4 +1,4 @@
-p{
+.p{
     color: blue;
 }
 .po{background-color: rgb(241, 200, 34);
@@ -15,4 +15,22 @@ p{
     background-color: slategray;
     font-size: 30px;
     text-decoration: line-through;
+}
+.rt{
+    line-height: 25px;
+}
+.tb {
+   /* text-align: justify;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: fangsong;
+    line-height: 24px;
+    /* text-transform: lowercase; */
+   /* background-color: black;
+    color: antiquewhite;*/
+    font: italic small-caps bold 30px/25px algerian;
+    ;
+    color: red;
 }
